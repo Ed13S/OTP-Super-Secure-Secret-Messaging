@@ -6,4 +6,3 @@ Method of use:
 4. Enter 4 and enter to delete history.
 
 [![Run on Repl.it](https://repl.it/badge/github/huangsam/ultimate-python)](https://repl.it/github/huangsam/ultimate-python)
-\ No newline at end of file
