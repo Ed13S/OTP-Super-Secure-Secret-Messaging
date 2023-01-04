@@ -5,4 +5,4 @@ Method of use:
 3. To decrypt type 3 and then enter. Type otp0.txt or the name of the otp(depending on how many were generated) then name of test file i.e. test the message should appear.
 4. Enter 4 and enter to delete history.
 [![Run on Repl.it](https://repl.it/badge/github/huangsam/ultimate-python)](https://replit.com/@Eddie13S/OTP-secret-messages?v=1)
-[![Run on pythonanywhere.com](https://repl.it/badge/github/huangsam/ultimate-python)(https://www.pythonanywhere.com/user/ED13S/shares/7d044ffb09fe4083871f85da0ac08584/)
+[![Run on pythonanywhere.com](https://www.pythonanywhere.com/static/anywhere/images/PA-logo-snake-only.svg)(https://www.pythonanywhere.com/user/ED13S/shares/7d044ffb09fe4083871f85da0ac08584/)
