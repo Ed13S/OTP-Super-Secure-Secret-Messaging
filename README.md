@@ -7,4 +7,6 @@ Method of use:
 [![Run on Repl.it](https://repl.it/badge/github/huangsam/ultimate-python)](https://replit.com/@Eddie13S/OTP-secret-messages?v=1)
 [![Run on pythonanywhere.com](https://www.pythonanywhere.com/static/anywhere/images/PA-logo-snake-only.svg)(https://www.pythonanywhere.com/user/ED13S/shares/7d044ffb09fe4083871f85da0ac08584/)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=C9FFC9&style=plastic" alt="GITHUB-USERNAME" /> </p>
+
+![](https://komarev.com/ghpvc/?Ed13S)
